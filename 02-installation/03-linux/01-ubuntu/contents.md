@@ -1,3 +1,4 @@
+[//]: # (Title: Ubuntu)
 # Ubuntu üzerinde PHP geliştirme ortamı kurulumu
 
 Önceki sayfada da bahsettiğimiz gibi, Ubuntu işletim sistemimize kurmamız gereken yazılımlar şunlar:
@@ -119,6 +120,13 @@ Kurulumu şu komutla gerçekleştiriyoruz:
 
 ```bash
 sudo apt-get install mysql-server
+```
+
+Yine Apache'de olduğu gibi servisin işletim sistemi açılışında çalışmasını istiyoruz, o yüzden bu komutu çalıştırıyoruz:
+
+```bash
+sudo systemctl start mysql
+sudo systemctl enable mysql
 ```
 
 Bu komutu çalıştırdıktan sonra MySQL'in güvenlik ayarlarını tamamlamamız gerekiyor:

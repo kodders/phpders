@@ -1,0 +1,4 @@
+# PHP diline giriş
+
+{{index}}
+

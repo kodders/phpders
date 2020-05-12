@@ -1,3 +1,4 @@
+[//]: # "Title: MacOS"
 # MacOS'a PHP geliştirme ortamı kurulumu
 
 Mac'te PHP yazmaya başlayalı çok olmadı, o yüzden çok araştırma fırsatım da olmadı açıkçası, ancak reddit'te, forumlarda vs gördüğüm kadarıyla genelde kolay Laravel siteleri kurmak adına Laravel Homestead veya Laravel Valet kullanılıyordu, Laravel Homestead sanal makina tabanlı olduğu ve benim de PHP geliştirme için sanal makina kullanmaya pek niyetim olmadığı için Laravel Valet'i incelemeye başladım. Windows'ta kullandığım Laragon'a işlerimi kolaylaştırmak adına ve mantıkça en yakını bu geldiği için bunu kullanmaya başladım. Sizlere de o yüzden bunun kurulumunu anlatmak istiyorum.

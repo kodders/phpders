@@ -1,3 +1,5 @@
+[//]: # (Title: Windows)
+
 # Windows'a PHP geliştirme ortamı kurulumu
 
 Windows'ta PHP kodlamaya ilk başladığım zamanlarda [**EasyPHP**](https://www.easyphp.org/), daha sonraları ApacheFriends'in [**XAMPP**](https://www.apachefriends.org/tr/index.html)'ı, ve en son karar kıldığım [**Laragon**](https://laragon.org/) hazır PHP stack'lerini kullandım. Hepsinin kurulumu oldukça basit, istediğiniz konfigürasyonu ayarlayabiliyorsunuz, örneğin ben Apache değil de NGINX kullanmak istiyorum diyorsanız ona göre dosya indiriyorsunuz ya da programın arayüzünden birini kapatıp diğerini açıyorsunuz vs, ancak ilk **Laragon**'u keşfettiğimde çok hoşuma giden bir özelliği vardı, ki hala o yüzden kullanıyorum, server kök klasörünün (bu konuya ileride tekrar değineceğim) içine örneğin _yenisitem_ isminde yeni bir klasör açtığınızda, otomatik olarak _yenisitem.dev_ adlı bir sanal websitesi oluşturuyor ve bu URL'ü kullanarak geliştirme yapabiliyorsunuz.

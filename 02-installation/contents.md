@@ -1,8 +1,10 @@
+[//]: # "Title: Ortam Kurulumu"
+
 # PHP'yi bilgisayarımda nasıl çalıştırabilirim?
 
 PHP yazmak için MAMP, LEMP, LAMP, WAMP vs ileride sağda solda duyacağınız ve işlerinizi aşırı derecede hızlandıracak toplama programlar (Stack) mevcuttur ve bütün ihtiyacınız olan programları ayrı ayrı kurmak yerine bu programlara otomatik olarak kurdurarak başlamanız, gerektiği zaman gerektiği şeyleri öğrenmeniz açısından önemli. 
 
-İsimlerin anlamını merak edenler için:
+İsimlerin nereden geldiğini merak edenler için:
 
 **MAMP**: MacOS Apache MySQL PHP
 
@@ -20,7 +22,7 @@ Benim kullandığım işletim sistemlerine göre en hızlı başlangıçları sa
 
 1. Windows için **Laragon**
 2. MacOS için **Laravel Valet**
-3. Linux için hazır programlar yerine, bütün bu programların kurulumunu tek komutla sağlayan scriptler mevcut. 
+3. Linux için hazır programlar yerine, bütün bu programların kurulumunu tek komutla sağlayan scriptler mevcut. Ama genelde özelleştirme açısından tek tek manuel kurulumlar tercih ediliyor. 
 
 
 

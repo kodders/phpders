@@ -1,3 +1,5 @@
+[//]: # "Title: Giriş"
+
 # PHP'ye giriş
 
 Öncelikle PHP nedir diye konuya başlamak istiyorum ancak bunu anlatırken PHP'ye neden ihtiyaç duyulduğundan başlamak daha mantıklı olacak. Bunun için de öncelikle backend - frontend ayrımını yapabilmeniz gerekiyor. 
@@ -23,7 +25,5 @@ Buradan anladığımız kadarıyla, bir sistemin kullanıcılara açıkça göst
 
 Ya da şöyle bir ayrım yapmak da yanlış olmaz: Kullanıcının bilgisayarında görülebilecek her türlü uygulama kodu _HTML_, _CSS_, _Javascript_ (ve genişletmeleri) frontend'i oluşturur. Örneğin; bir siteyi açtığınızda o sitede sağ tuşa tıklayıp **Kaynağı görüntüle** ya da **Öğeyi incele** dediğinizde sayfada çalışan kodların sadece kullanıcı ile paylaşılan kısmını, yani frontend kodlarını görebilirsiniz. Server'da çalışan, size hangi sayfanın gösterileceği, hangi işlemlerin yapılacağı, veritabanına nelerin kaydedileceği vs komutları içeren kodları göremezsiniz.  İşte bu sunucu üzerinde çalışıp size sonuç olarak sayfaları oluşturan kısma ise backend denilir.
 
-PHP bir backend dilidir, ve kullanıcının bilgisayarında server (sunucu) programları kullanılmadan çalıştırılamaz. Genelde kullanılan sunucular Apache ve NGINX sunucularıdır. Bunların nasıl kurulacağı, detaylı ayarları ve optimizasyonları, bu dili öğrenmede biraz ilerledikten sonra belki ilginizi çekebilir, ancak hızlı bir giriş yapmak için hazır programlar kullanacağız. 
-
-Bir sonraki bölümde PHP yazabilmek adına bir ortamın nasıl hazırlanacağını anlatacağım.
+PHP bir backend dilidir, ve kullanıcının bilgisayarında server (sunucu) programları kullanılmadan çalıştırılamaz. Genelde kullanılan sunucular Apache ve NGINX sunucularıdır. Bunların nasıl kurulacağını basitçe sonraki bölümlerde anlatacağım, detaylı ayarları ve optimizasyonları, bu dili öğrenmede biraz ilerledikten sonra belki ilginizi çekebilir, ancak hızlı bir giriş yapmak için hazır programlar kullanacağız. 
 

@@ -1,3 +1,4 @@
+[//]: # (Title: Linux)
 # Linux'ta PHP geliştirme ortamı kurulumu
 
 Linux'ta PHP kurulumu, Windows veya MacOS üzerine PHP kurmaktan biraz daha zor aslında. CentOS için farklı kurulum komutları var, Ubuntu için farklı komutlar var, Alpine Linux için farklı kurulum komutları var, bunların sebebi farklı paket yöneticisi programlarına ve kaynak depolarına sahip olmaları diyebiliriz. 
